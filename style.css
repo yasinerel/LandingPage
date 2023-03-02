@@ -198,7 +198,24 @@
 .ills-p{
   text-align: center;
   font-size: 24px;
+  color: red;
 }
 a:link{
   text-decoration: none;
+}
+
+
+
+
+.con3{
+  background-color: #E5E7EB;
+  height: 600px;
+  padding-top: 180px;
+}
+
+.footer{
+  margin-top: 320px;
+  padding-top: 10px;
+  text-align: center;
+  background-color: #04AA6D;
 }
