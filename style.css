@@ -168,3 +168,27 @@
     background-color: #04AA6D;
     color: white;
   }
+
+
+
+
+.con2{
+    background-color: #3882F6;
+    height: 600px;
+}
+
+.element2 {
+  margin-left: 20px;
+  display: inline-block;
+
+  
+} 
+
+#img2{
+  height: 180px;
+}
+
+
+.ills{
+  padding: 120px;
+}
