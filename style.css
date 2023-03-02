@@ -5,7 +5,7 @@
 .element1 {
     margin-left: 20px;
     display: inline-block;
-    width: 980px;
+    width: 480px;
     height: 300px;
     background: #1F2937;
     
@@ -184,15 +184,12 @@
   
 } 
 
-#img2{
-  height: 180px;
-}
 
 
 .ills{
-  padding: 120px;
-  padding-top: 50px;
+  padding: 45px;
   display: inline-block;
+  height: 10px;
 }
 
 .ills-p{
