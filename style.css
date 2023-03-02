@@ -173,7 +173,7 @@
 
 
 .con2{
-    background-color: #3882F6;
+    background-color: #FFC5D1;
     height: 600px;
 }
 
@@ -191,4 +191,14 @@
 
 .ills{
   padding: 120px;
+  padding-top: 50px;
+  display: inline-block;
+}
+
+.ills-p{
+  text-align: center;
+  font-size: 24px;
+}
+a:link{
+  text-decoration: none;
 }
